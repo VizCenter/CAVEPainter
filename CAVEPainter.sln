@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAVEPainter.Plugins", "CAVEPainter.Plugins.csproj", "{C2385F1E-E6CD-2A03-DC8F-3F8E50080FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAVEPainter", "CAVEPainter.csproj", "{842898BB-727A-7FF7-CC94-F5CC4A841139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAVEPainter.Editor", "CAVEPainter.Editor.csproj", "{BB68CA76-633D-AD2E-0315-F7F763889172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2385F1E-E6CD-2A03-DC8F-3F8E50080FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2385F1E-E6CD-2A03-DC8F-3F8E50080FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2385F1E-E6CD-2A03-DC8F-3F8E50080FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2385F1E-E6CD-2A03-DC8F-3F8E50080FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842898BB-727A-7FF7-CC94-F5CC4A841139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842898BB-727A-7FF7-CC94-F5CC4A841139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842898BB-727A-7FF7-CC94-F5CC4A841139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842898BB-727A-7FF7-CC94-F5CC4A841139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB68CA76-633D-AD2E-0315-F7F763889172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB68CA76-633D-AD2E-0315-F7F763889172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB68CA76-633D-AD2E-0315-F7F763889172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB68CA76-633D-AD2E-0315-F7F763889172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
